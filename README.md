@@ -16,7 +16,7 @@ CRUD![tela crud](https://github.com/user-attachments/assets/fbc8c8f2-97fa-4266-a
 --
 Logs Api gateway![logs-api](https://github.com/user-attachments/assets/13b91db6-65dd-4025-bab5-73db036838f4)
 --
-Logs Api gateway![logs-api](https://github.com/user-attachments/assets/c696d346-cdac-456a-945d-ed20c9083292)
+**Logs Função Lambda**![logs-api](https://github.com/user-attachments/assets/c696d346-cdac-456a-945d-ed20c9083292)
 
 ---
 
